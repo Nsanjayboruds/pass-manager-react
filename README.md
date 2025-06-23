@@ -1,12 +1,38 @@
-# React + Vite
+# 🔐 Password Manager (React + Vite)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple, elegant password manager built with React and Vite. It allows users to securely store, view, filter, and delete their passwords — all with a smooth UI and modern design.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- ✅ Add website, username, and password entries
+- 🔍 Real-time search filtering
+- 👁️ Toggle password visibility (masked/unmasked)
+- ❌ Delete individual entries
+- 💅 Attractive UI with animations and responsive layout
+- ⚡ Built using Vite for blazing-fast dev experience
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📸 Screenshots
+
+![App Screenshot](https://via.placeholder.com/800x400.png?text=Password+Manager+UI)
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React + Vite
+- **Styling:** CSS (glassmorphism + animations)
+- **UUID:** For unique ID generation using `uuid` package
+
+---
+2. Install Dependencies
+
+npm install
+
+3. Run the App
+
+npm run dev
+
