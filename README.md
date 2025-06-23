@@ -15,11 +15,7 @@ A simple, elegant password manager built with React and Vite. It allows users to
 
 ---
 
-## 📸 Screenshots
 
-![App Screenshot](https://via.placeholder.com/800x400.png?text=Password+Manager+UI)
-
----
 
 ## 🛠️ Tech Stack
 
